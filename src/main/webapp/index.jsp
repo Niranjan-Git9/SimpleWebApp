@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Welcome to flipkart place where we can find all ur needs</h1>
+         <h1> Happy new year shopping is ready............</h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
