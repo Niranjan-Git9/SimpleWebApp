@@ -100,7 +100,7 @@ h1{
 		
         </header>
 <<<<<<< HEAD
-         <h1> Happy new year shopping is ready............</h1>
+         <h1> 2026 new year shopping is ready............</h1>
 =======
  
     </section>    
