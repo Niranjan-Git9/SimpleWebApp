@@ -99,12 +99,11 @@ h1{
             </ul>
 		
         </header>
-         <h1> Welcome to Flipkart big billion days....</h1>
+         <h1> Welcome to flipkart place where we can find all ur needs</h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
     <section id="pricing"><h1>This Is Pricing</h1></section>
     <section id="contact"><h1>This Is Contact</h1></section>
 
-</body>
-</html>
+</body></html>
