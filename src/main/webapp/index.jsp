@@ -99,7 +99,10 @@ h1{
             </ul>
 		
         </header>
+<<<<<<< HEAD
          <h1> Happy new year shopping is ready............</h1>
+=======
+ 
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
